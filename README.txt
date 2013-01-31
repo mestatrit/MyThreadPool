@@ -6,3 +6,4 @@ JDK自带线程池ThreadPoolExecutor使用例子。
 开发环境：
 1 JDK1.5以上
 2 eclipse-jee-juno
+3 eclipse编码为UTF-8
